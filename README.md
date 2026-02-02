@@ -1,3 +1,7 @@
+# Frontend
+
+2026 피싱, 스캠 예방 서비스 개발 공모전 프론트엔드
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
